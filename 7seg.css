@@ -1,0 +1,171 @@
+
+#one
+{
+height:20px;
+width:100px;
+
+background: red;
+position:relative;
+transform: translate(20px,0px);
+animation: one 9s ease 1s infinite normal;
+
+}
+@keyframes one
+{
+0%{background:red;}
+11.1111%{background:white;}
+22.22%{background:purple;}
+33.333%{background:blue;}
+44.444%{background:white;}
+55.555%{background:red;}
+66.666%{background:green;}
+77.777%{background:red;}
+88.888%{background:pink;}
+100%{background:aqua;}	
+}
+#two
+{
+height:100px;
+width:20px;
+background:red ;
+position:relative;
+animation: two 9s ease 1s infinite normal;
+}
+@keyframes two
+{
+0%{background:red;}
+11.1111%{background:white;}
+22.22%{background:white;}
+33.333%{background:white;}
+44.444%{background:orange;}
+55.555%{background:red;}
+66.666%{background:green;}
+77.777%{background:red;}
+88.888%{background:pink;}
+100%{background:aqua;}	
+}
+#three
+{
+height:20px;
+width:100px;
+background:white ;
+position:relative;
+transform: translate(20px,0px);
+animation: three 9s ease 1s infinite normal;
+}
+@keyframes three
+{
+0%{background:white;}
+11.1111%{background:white;}
+22.22%{background:purple;}
+33.333%{background:blue;}
+44.444%{background:orange;}
+55.555%{background:red;}
+66.666%{background:green;}
+77.777%{background:white;}
+88.888%{background:pink;}
+100%{background:aqua;}	
+}
+#four
+{
+height:100px;
+width:20px;
+background: red;
+position:relative;
+animation: four 9s ease 1s infinite normal;
+
+}
+@keyframes four
+{
+0%{background:red;}
+11.1111%{background:white;}
+22.22%{background:purple;}
+33.333%{background:white;}
+44.444%{background:white;}
+55.555%{background:white;}
+66.666%{background:green;}
+77.777%{background:white;}
+88.888%{background:pink;}
+100%{background:white;}	
+}
+#five
+{
+height:20px;
+width:100px;
+background: red;
+position:relative;
+transform: translate(20px,0px);
+animation: five 9s ease 1s infinite normal;
+}
+@keyframes five
+{
+0%{background:red;}
+11.1111%{background:white;}
+22.22%{background:purple;}
+33.333%{background:blue;}
+44.444%{background:white;}
+55.555%{background:red;}
+66.666%{background:green;}
+77.777%{background:white;}
+88.888%{background:pink;}
+100%{background:aqua;}	
+}
+#six
+{
+height:100px;
+width:20px;
+background: red ;
+position: absolute;
+top:28px;
+left:108px;
+transform: translate(20px,0px);
+animation: six 9s ease 1s infinite normal;
+}
+@keyframes six
+{
+0%{background:red;}
+11.1111%{background:black;}
+22.22%{background:purple;}
+33.333%{background:blue;}
+44.444%{background:orange;}
+55.555%{background:white;}
+66.666%{background:white;}
+77.777%{background:red;}
+88.888%{background:pink;}
+100%{background:aqua;}	
+}
+#seven
+{
+height:100px;
+width:20px;
+background: red;
+position:absolute;
+top:148px;
+left: 108px;
+transform: translate(20px,0px);
+animation: seven 9s ease 1s infinite normal;
+}
+@keyframes seven
+{
+0%{background:red;}
+11.1111%{background:black;}
+22.22%{background:white;}
+33.333%{background:blue;}
+44.444%{background:orange;}
+55.555%{background:red;}
+66.666%{background:green;}
+77.777%{background:red;}
+88.888%{background:pink;}
+100%{background:aqua;}	
+}
+p,h6
+{
+	text-decoration:none;
+	
+	
+	padding:2px;
+	border-radius:5px;
+	text-align:right;
+	
+	
+}
